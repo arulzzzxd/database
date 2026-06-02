@@ -1,5 +1,4 @@
-const bacaanshalat = {
-  "result": [
+[
     {
       "id": 1,
       "name": "Bacaan Iftitah",
@@ -57,4 +56,3 @@ const bacaanshalat = {
       "terjemahan": "Semoga keselamatan, rohmat dan berkah ALLAH selalu tercurah untuk kamu sekalian."
     }
   ]
-}
